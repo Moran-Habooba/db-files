@@ -1,0 +1,659 @@
+[{
+  "_id": {
+    "$oid": "65ba6c9565dc3d5d02af94ce"
+  },
+  "title": "סט הבדלה",
+  "description": "סט הבדלה מהודר",
+  "price": "100",
+  "bizNumber": 5705611,
+  "user_id": {
+    "$oid": "65b130acfebb3a5aeb10ab0b"
+  },
+  "image_file": {
+    "path": "uploads/1707734439263-Sabbath6.jpg",
+    "originalname": "Sabbath6.jpg"
+  },
+  "likes": [
+    "65b6a70af8386208e5d27832",
+    "65c0b2b3c0b3672ac9e8f11f"
+  ],
+  "quantity": 4,
+  "category": "שבת",
+  "createdAt": {
+    "$date": "2024-01-31T15:51:49.766Z"
+  },
+  "__v": 46
+},
+{
+  "_id": {
+    "$oid": "65ba6ca665dc3d5d02af94d4"
+  },
+  "title": "מלחיה",
+  "description": "מלחיה",
+  "price": "25",
+  "bizNumber": 1364953,
+  "user_id": {
+    "$oid": "65b130acfebb3a5aeb10ab0b"
+  },
+  "image_file": {
+    "path": "uploads/1707734477482-Sabbath3.jpeg",
+    "originalname": "Sabbath3.jpeg"
+  },
+  "likes": [
+    "65c34afee097be1e4739405f",
+    "65e5a523f405d028073e9784"
+  ],
+  "quantity": 2,
+  "category": "שבת",
+  "createdAt": {
+    "$date": "2024-01-31T15:52:06.973Z"
+  },
+  "__v": 52
+},
+{
+  "_id": {
+    "$oid": "65bf5c65132b76844b249dd4"
+  },
+  "title": "כיפה",
+  "description": "כיפה",
+  "price": "25",
+  "bizNumber": 4653268,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707735121192-kippa9.webp",
+    "originalname": "kippa9.webp"
+  },
+  "likes": [],
+  "quantity": 0,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-04T09:44:05.730Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "65c33ac3970f7eda4014dbde"
+  },
+  "title": "סיכות כיפה",
+  "description": "צבע שחור 12 יחידות",
+  "price": "5",
+  "bizNumber": 6711955,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734534990-kippa3.jpg",
+    "originalname": "kippa3.jpg"
+  },
+  "likes": [
+    "65e426ef9b19af87bb6ae9bc",
+    "65c0b2b3c0b3672ac9e8f11f"
+  ],
+  "quantity": 5,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:09:39.824Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "65c33b6c970f7eda4014dbe6"
+  },
+  "title": "כיפה פשתן",
+  "description": "צבע אפור",
+  "price": "40",
+  "bizNumber": 4831082,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734549470-kippa4.jpg",
+    "originalname": "kippa4.jpg"
+  },
+  "likes": [],
+  "quantity": 2,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:12:28.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33b8a970f7eda4014dbee"
+  },
+  "title": "כיפה פשתן",
+  "description": "צבע כחול ג'ינס",
+  "price": "40",
+  "bizNumber": 4854812,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734558093-kippa6.jpg",
+    "originalname": "kippa6.jpg"
+  },
+  "likes": [
+    "65c34afee097be1e4739405f"
+  ],
+  "quantity": 2,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:12:58.469Z"
+  },
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "65c33bb6970f7eda4014dbfc"
+  },
+  "title": "כיפה פשתן",
+  "description": "צבע תכלת/אפור",
+  "price": "40",
+  "bizNumber": 8253301,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734564376-kippa5.jpg",
+    "originalname": "kippa5.jpg"
+  },
+  "likes": [],
+  "quantity": 3,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:13:42.999Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "65c33bd9970f7eda4014dc04"
+  },
+  "title": "כיפה מעור",
+  "description": "דמוי עור",
+  "price": "60",
+  "bizNumber": 5561546,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734571398-kippa7.jpg",
+    "originalname": "kippa7.jpg"
+  },
+  "likes": [
+    "65c34afee097be1e4739405f"
+  ],
+  "quantity": 2,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:14:17.283Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65c33bf4970f7eda4014dc0c"
+  },
+  "title": "כיפה מצויירת",
+  "description": "כחול עם אייורים",
+  "price": "25",
+  "bizNumber": 7650096,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734580105-kippa2.jpg",
+    "originalname": "kippa2.jpg"
+  },
+  "likes": [],
+  "quantity": 1,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:14:44.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33c43970f7eda4014dc14"
+  },
+  "title": "כיפה שחורה",
+  "description": "4 חלקים",
+  "price": "26",
+  "bizNumber": 6612408,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734588079-kippa1.jpg",
+    "originalname": "kippa1.jpg"
+  },
+  "likes": [],
+  "quantity": 8,
+  "category": "כיפות",
+  "createdAt": {
+    "$date": "2024-02-07T08:16:03.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33cfd970f7eda4014dc60"
+  },
+  "title": "סידור תפילה להשם והכל מתגשם",
+  "description": "סידור לבת ישראל",
+  "price": "80",
+  "bizNumber": 8299690,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734599539-sidur1.jpeg",
+    "originalname": "sidur1.jpeg"
+  },
+  "likes": [],
+  "quantity": 2,
+  "category": "סידורים",
+  "createdAt": {
+    "$date": "2024-02-07T08:19:09.186Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "65c33d19970f7eda4014dc68"
+  },
+  "title": "סידור כוונת הלב",
+  "description": "סידור לבת ישראל",
+  "price": "65",
+  "bizNumber": 3304175,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734616406-sidur2.jpeg",
+    "originalname": "sidur2.jpeg"
+  },
+  "likes": [],
+  "quantity": 3,
+  "category": "סידורים",
+  "createdAt": {
+    "$date": "2024-02-07T08:19:37.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33d57970f7eda4014dc70"
+  },
+  "title": "סידור כיס",
+  "description": "סידור לגבר",
+  "price": "70",
+  "bizNumber": 9646713,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734625666-sidur3.jpg",
+    "originalname": "sidur3.jpg"
+  },
+  "likes": [],
+  "quantity": 6,
+  "category": "סידורים",
+  "createdAt": {
+    "$date": "2024-02-07T08:20:39.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33d7f970f7eda4014dc78"
+  },
+  "title": "סידור עבודת השם לגבר",
+  "description": "כתר שחור",
+  "price": "120",
+  "bizNumber": 1996648,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734632827-sidur5.jpg",
+    "originalname": "sidur5.jpg"
+  },
+  "likes": [],
+  "quantity": 5,
+  "category": "סידורים",
+  "createdAt": {
+    "$date": "2024-02-07T08:21:19.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33dae970f7eda4014dc82"
+  },
+  "title": "סידור עבודת השם  לבן",
+  "description": "ניתן לחרוט שם אישי",
+  "price": "130",
+  "bizNumber": 8598052,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734639959-sidur4.jpg",
+    "originalname": "sidur4.jpg"
+  },
+  "likes": [],
+  "quantity": 5,
+  "category": "סידורים",
+  "createdAt": {
+    "$date": "2024-02-07T08:22:06.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33e03970f7eda4014dc8a"
+  },
+  "title": "כיסוי פסח מהודר",
+  "description": "סטן עם רקמה 43 ס\"מ",
+  "price": "139",
+  "bizNumber": 6470444,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734655608-Pesach1.jpg",
+    "originalname": "Pesach1.jpg"
+  },
+  "likes": [
+    "65d5cd431e925b7c87ed2457"
+  ],
+  "quantity": 5,
+  "category": "חגים",
+  "createdAt": {
+    "$date": "2024-02-07T08:23:31.140Z"
+  },
+  "__v": 183
+},
+{
+  "_id": {
+    "$oid": "65c33e24970f7eda4014dc92"
+  },
+  "title": "סט צלחת פסח ומצה",
+  "description": "במבוק דמו שיש לבן",
+  "price": "119",
+  "bizNumber": 4744766,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734665944-Pesach2.jpg",
+    "originalname": "Pesach2.jpg"
+  },
+  "likes": [],
+  "quantity": 3,
+  "category": "חגים",
+  "createdAt": {
+    "$date": "2024-02-07T08:24:04.407Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "65c33e48970f7eda4014dc9a"
+  },
+  "title": "חנוכיה יהלום",
+  "description": "ציפוי כסף 35 ס\"מ",
+  "price": "280",
+  "bizNumber": 4001381,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734673882-Hanukkah.jpg",
+    "originalname": "Hanukkah.jpg"
+  },
+  "likes": [],
+  "quantity": 2,
+  "category": "חגים",
+  "createdAt": {
+    "$date": "2024-02-07T08:24:40.564Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "65c33ed1970f7eda4014dca2"
+  },
+  "title": "בית מזוזה",
+  "description": "פלסטיק 12 ס\"מ",
+  "price": "17",
+  "bizNumber": 5038201,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734690195-mezuzah2.jpg",
+    "originalname": "mezuzah2.jpg"
+  },
+  "likes": [],
+  "quantity": 5,
+  "category": "מזוזות",
+  "createdAt": {
+    "$date": "2024-02-07T08:26:57.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33efb970f7eda4014dcaa"
+  },
+  "title": "בית מזוזה דמוי אבן",
+  "description": "15 ס\"מ",
+  "price": "80",
+  "bizNumber": 9193838,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734697315-mezuzah1.jpg",
+    "originalname": "mezuzah1.jpg"
+  },
+  "likes": [],
+  "quantity": 3,
+  "category": "מזוזות",
+  "createdAt": {
+    "$date": "2024-02-07T08:27:39.786Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "65c33f3c970f7eda4014dcb2"
+  },
+  "title": "בית מזוזה \"רימוני זהב\"",
+  "description": "15 ס\"מ",
+  "price": "180",
+  "bizNumber": 3121463,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734705176-mezuzah3.jpeg",
+    "originalname": "mezuzah3.jpeg"
+  },
+  "likes": [],
+  "quantity": 2,
+  "category": "מזוזות",
+  "createdAt": {
+    "$date": "2024-02-07T08:28:44.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c33fb7970f7eda4014dcba"
+  },
+  "title": "בית מזוזה -נקודות",
+  "description": "15 ס\"מ",
+  "price": "90",
+  "bizNumber": 6652257,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734712014-mezuzah4.png",
+    "originalname": "mezuzah4.png"
+  },
+  "likes": [],
+  "quantity": 4,
+  "category": "מזוזות",
+  "createdAt": {
+    "$date": "2024-02-07T08:30:47.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c34011970f7eda4014dcc6"
+  },
+  "title": "מגש חלה",
+  "description": "זכוכית מהודר עם מסגרת עץ 28x40 ס\"מ",
+  "price": "299",
+  "bizNumber": 2795213,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734721224-Sabbath2.jpg",
+    "originalname": "Sabbath2.jpg"
+  },
+  "likes": [],
+  "quantity": 3,
+  "category": "שבת",
+  "createdAt": {
+    "$date": "2024-02-07T08:32:17.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c34042970f7eda4014dcce"
+  },
+  "title": "סכין מהודר",
+  "description": "ציפוי כסף 925",
+  "price": "259",
+  "bizNumber": 4058595,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734730349-Sabbath1.jpg",
+    "originalname": "Sabbath1.jpg"
+  },
+  "likes": [],
+  "quantity": 5,
+  "category": "שבת",
+  "createdAt": {
+    "$date": "2024-02-07T08:33:06.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c34432970f7eda4014dd8c"
+  },
+  "title": "נטלה",
+  "description": "אבן חריטה פנימית",
+  "price": "140",
+  "bizNumber": 8994386,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734741194-natla4.jpg",
+    "originalname": "natla4.jpg"
+  },
+  "likes": [],
+  "quantity": 3,
+  "category": "נטלות",
+  "createdAt": {
+    "$date": "2024-02-07T08:49:54.911Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "65c3444f970f7eda4014dd94"
+  },
+  "title": "נטלה אשר קידשנו",
+  "description": "אבן",
+  "price": "140",
+  "bizNumber": 2754457,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734749337-natla3.jpg",
+    "originalname": "natla3.jpg"
+  },
+  "likes": [],
+  "quantity": 5,
+  "category": "נטלות",
+  "createdAt": {
+    "$date": "2024-02-07T08:50:23.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c34468970f7eda4014dd9c"
+  },
+  "title": "נטלה",
+  "description": "שחור/זהב",
+  "price": "140",
+  "bizNumber": 4329458,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734755659-natla2.jpg",
+    "originalname": "natla2.jpg"
+  },
+  "likes": [],
+  "quantity": 7,
+  "category": "נטלות",
+  "createdAt": {
+    "$date": "2024-02-07T08:50:48.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3447d970f7eda4014dda4"
+  },
+  "title": "נטלה מהודרת",
+  "description": "לבן מבריק",
+  "price": "140",
+  "bizNumber": 9150078,
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "image_file": {
+    "path": "uploads/1707734762928-natla1.jpeg",
+    "originalname": "natla1.jpeg"
+  },
+  "likes": [],
+  "quantity": 2,
+  "category": "נטלות",
+  "createdAt": {
+    "$date": "2024-02-07T08:51:09.669Z"
+  },
+  "__v": 0
+}]

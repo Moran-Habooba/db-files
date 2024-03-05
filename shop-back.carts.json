@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "65e422829b19af87bb6ae85d"
+  },
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "pending",
+  "items": [],
+  "__v": 49
+},
+{
+  "_id": {
+    "$oid": "65e57592f405d028073e922a"
+  },
+  "user_id": {
+    "$oid": "65bb77070b2a252b79f611e8"
+  },
+  "status": "pending",
+  "items": [
+    {
+      "card_id": {
+        "$oid": "65c33ac3970f7eda4014dbde"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65e57592f405d028073e922b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5a6e6f405d028073e9820"
+  },
+  "user_id": {
+    "$oid": "65e5a523f405d028073e9784"
+  },
+  "status": "pending",
+  "items": [
+    {
+      "card_id": {
+        "$oid": "65c33ac3970f7eda4014dbde"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65e5a888f405d028073e988f"
+      }
+    }
+  ],
+  "__v": 2
+}]

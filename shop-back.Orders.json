@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "65e0240a1bf529c30c4cb56c"
+  },
+  "orderNumber": "4032587",
+  "user_id": {
+    "$oid": "65e0225b662f7d06c6c32a64"
+  },
+  "status": "close",
+  "city": "פתח תקווה",
+  "street": "יצחק אלחנן",
+  "houseNumber": 3,
+  "createdAt": {
+    "$date": "2024-02-29T06:28:26.271Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0242e1bf529c30c4cb58a"
+  },
+  "orderNumber": "8273976",
+  "user_id": {
+    "$oid": "65e0225b662f7d06c6c32a64"
+  },
+  "status": "close",
+  "city": "פתח תקווה",
+  "street": "יצחק אלחנן",
+  "houseNumber": 3,
+  "createdAt": {
+    "$date": "2024-02-29T06:29:02.858Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e024391bf529c30c4cb58e"
+  },
+  "orderNumber": "3842682",
+  "user_id": {
+    "$oid": "65e0225b662f7d06c6c32a64"
+  },
+  "status": "close",
+  "city": "פתח תקווה",
+  "street": "יצחק אלחנן",
+  "houseNumber": 3,
+  "createdAt": {
+    "$date": "2024-02-29T06:29:13.706Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0254e846ff5b970631ece"
+  },
+  "orderNumber": "6881826",
+  "user_id": {
+    "$oid": "65e0225b662f7d06c6c32a64"
+  },
+  "status": "close",
+  "city": "פתח תקווה",
+  "street": "יצחק אלחנן",
+  "houseNumber": 3,
+  "createdAt": {
+    "$date": "2024-02-29T06:33:50.096Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e02568ecdd622a08e769be"
+  },
+  "orderNumber": "1683284",
+  "user_id": {
+    "$oid": "65e0225b662f7d06c6c32a64"
+  },
+  "status": "close",
+  "city": "פתח תקווה",
+  "street": "יצחק אלחנן",
+  "houseNumber": 3,
+  "createdAt": {
+    "$date": "2024-02-29T06:34:16.662Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e03a0103ff893a536e2fb3"
+  },
+  "orderNumber": "4763734",
+  "user_id": {
+    "$oid": "65e0225b662f7d06c6c32a64"
+  },
+  "status": "close",
+  "city": "בלה בלה",
+  "street": "בלה בלה",
+  "houseNumber": 10,
+  "createdAt": {
+    "$date": "2024-02-29T08:02:09.922Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e04d3b03ff893a536e350b"
+  },
+  "orderNumber": "7868302",
+  "user_id": {
+    "$oid": "65e04d1403ff893a536e34de"
+  },
+  "status": "close",
+  "city": "פתח תקווה",
+  "street": "יצחק אלחנן",
+  "houseNumber": 8,
+  "createdAt": {
+    "$date": "2024-02-29T09:24:11.372Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4219d9b19af87bb6ae7e6"
+  },
+  "orderNumber": "8527285",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-03T07:07:09.006Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e421ae9b19af87bb6ae7ea"
+  },
+  "orderNumber": "7842321",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-03T07:07:26.210Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e421f79b19af87bb6ae80b"
+  },
+  "orderNumber": "7087022",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-03T07:08:39.112Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e422c19b19af87bb6ae8cc"
+  },
+  "orderNumber": "8109690",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-03T07:12:01.291Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e424f89b19af87bb6ae95b"
+  },
+  "orderNumber": "2944455",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 8,
+  "createdAt": {
+    "$date": "2024-03-03T07:21:28.763Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e6bdd6f405d028073e9bc1"
+  },
+  "orderNumber": "5003527",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-05T06:38:14.775Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e6bde5f405d028073e9bdf"
+  },
+  "orderNumber": "7451643",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 55,
+  "createdAt": {
+    "$date": "2024-03-05T06:38:29.894Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e6c2f6f405d028073e9e08"
+  },
+  "orderNumber": "9778113",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-05T07:00:06.703Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e6c31ef405d028073e9e48"
+  },
+  "orderNumber": "9820460",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 5,
+  "createdAt": {
+    "$date": "2024-03-05T07:00:46.312Z"
+  },
+  "items": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e6d954cefb9e58ef9ab014"
+  },
+  "orderNumber": "1868949",
+  "user_id": {
+    "$oid": "65c0b2b3c0b3672ac9e8f11f"
+  },
+  "status": "close",
+  "city": "תל אביב",
+  "street": "ירושלים",
+  "houseNumber": 105,
+  "createdAt": {
+    "$date": "2024-03-05T08:35:32.478Z"
+  },
+  "items": [],
+  "__v": 0
+}]
